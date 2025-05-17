@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/-MySQL-34517d?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff"/>
@@ -30,7 +29,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-1a73e8?logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Jenkins-D33834?logo=jenkins&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff"/>
   <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff"/>
   <img src="https://img.shields.io/badge/StackHawk-00CBC6?logo=StackHawk&logoColor=fff"/>
